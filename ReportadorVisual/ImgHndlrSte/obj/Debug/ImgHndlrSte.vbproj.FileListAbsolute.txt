@@ -1,0 +1,13 @@
+C:\Users\j.romo\Desktop\Dev\ImgHndlrSte\ImgHndlrSte\obj\Debug\ImgHndlrSte.vbprojAssemblyReference.cache
+C:\Users\j.romo\Desktop\Dev\ImgHndlrSte\ImgHndlrSte\obj\Debug\Interop.WordAdapterLib.dll
+C:\Users\j.romo\Desktop\Dev\ImgHndlrSte\ImgHndlrSte\obj\Debug\ImgHndlrSte.vbproj.ResolveComReference.cache
+C:\Users\j.romo\Desktop\Dev\ImgHndlrSte\ImgHndlrSte\obj\Debug\ImgHndlrSte.Resources.resources
+C:\Users\j.romo\Desktop\Dev\ImgHndlrSte\ImgHndlrSte\obj\Debug\ImgHndlrSte.vbproj.GenerateResource.cache
+C:\Users\j.romo\Desktop\Dev\ImgHndlrSte\ImgHndlrSte\obj\Debug\ImgHndlrSte.vbproj.CoreCompileInputs.cache
+C:\Users\j.romo\Desktop\Dev\ImgHndlrSte\ImgHndlrSte\bin\Debug\ImgHndlrSte.exe.config
+C:\Users\j.romo\Desktop\Dev\ImgHndlrSte\ImgHndlrSte\bin\Debug\ImgHndlrSte.exe
+C:\Users\j.romo\Desktop\Dev\ImgHndlrSte\ImgHndlrSte\bin\Debug\ImgHndlrSte.pdb
+C:\Users\j.romo\Desktop\Dev\ImgHndlrSte\ImgHndlrSte\bin\Debug\ImgHndlrSte.xml
+C:\Users\j.romo\Desktop\Dev\ImgHndlrSte\ImgHndlrSte\obj\Debug\ImgHndlrSte.exe
+C:\Users\j.romo\Desktop\Dev\ImgHndlrSte\ImgHndlrSte\obj\Debug\ImgHndlrSte.xml
+C:\Users\j.romo\Desktop\Dev\ImgHndlrSte\ImgHndlrSte\obj\Debug\ImgHndlrSte.pdb
